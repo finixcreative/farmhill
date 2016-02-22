@@ -1,0 +1,24 @@
+{
+	"pages": [
+		{
+			"title": "Menu",
+			"link": "menu"
+		},
+		{
+			"title": "About",
+			"link": "about"
+		},
+		{
+			"title": "Contact",
+			"link": "contact"
+		},
+		{
+			"title": "Catering",
+			"link": "catering"
+		},
+		{
+			"title": "Farm Hill for Teams",
+			"link": "teams"
+		}
+	]
+}
